@@ -15,7 +15,6 @@ const container = document.getElementById("container");
 let rows = document.getElementsByClassName("gridRow");
 let cells = document.getElementsByClassName("cell");
 
-
 defaultGrid();
 //Creates a default grid sized 16x16 
 function defaultGrid() {
