@@ -9,7 +9,7 @@
 
 // ###################3 
 
-//Sets important constants and variables
+// Sets important constants and variables
 
 const container = document.getElementById("container");
 let rows = document.getElementsByClassName("gridRow");
@@ -43,3 +43,4 @@ function makeColumns(cellNum) {
 
     };
 };
+

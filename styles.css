@@ -1,12 +1,12 @@
-body {
+/* body {
     margin: 0;
     padding: 0;
     
-}
+} */
 
 .cell {
     border: 1px solid gray;
-    min-width: 20px;
+    min-width: 10px;
     min-height: 20px;
     display: inline-block;
     margin-right: 2px;
